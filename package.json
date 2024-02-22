@@ -1,0 +1,20 @@
+{
+  "name": "04-05-mvc-double-resource",
+  "version": "1.0.0",
+  "description": "#### Objective Enhance your Express application to manage two resources, Todos and Users, using a structured MVC architectural pattern. This exercise focuses on implementing data management through separate modules, ensuring controllers can access and manipulate shared data with up-to-date integrity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}
